@@ -1,0 +1,385 @@
+body{font-family: 'Noto Sans', sans-serif;}
+
+.container{
+    width: 1200px;
+    margin: auto;
+}
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+/*LOGO*/
+
+.Head{
+    background-color: white;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    box-shadow: rgb(240, 238, 238) 0px 2px;
+}
+
+.Head img{
+    width: 10%;  
+    margin-right: 600px;
+    margin-bottom: 20px;
+    
+}
+
+.Head a{
+    text-decoration: none;
+    padding: 5px 15px 5px 15px;
+    margin-bottom: 15px;
+    font-size: 15px;
+}
+
+.ahead a{
+    color: rgb(135, 132, 132);
+}
+
+.ahead a:hover{
+    color: rgb(72, 130, 188);
+}
+
+/* Section 1*/
+
+.sec1{
+    width: 100%;
+    margin: auto;
+}
+
+.sec1 img{
+    width: 45%;
+    margin: 40px 0px 20px 340px;
+}
+
+.s{
+    text-align: center;
+    font-size: 45px;
+    font-weight: 500;
+    margin-bottom: 4px;
+}
+
+.s1{
+    text-align: center;
+    font-weight: 400;
+    font-size: 20px;
+    margin-bottom: 40px;
+}
+
+.sec1 a{
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+    border: 1px solid black;
+    background-color: rgb(28, 117, 206);
+    padding: 8px 24px;
+    border-radius: 5px;
+    margin-left: 510px;
+    
+}
+
+.sec1 a:hover{
+    background-color: black;
+}
+
+/* Section 2*/
+
+.sec2{
+    width: 45%;
+    margin: auto;
+    margin-top: 100px;
+    margin-bottom: 60px;
+}
+
+.p2{
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.p21{
+    padding: 5px 10px 5px 10px;
+}
+
+.list{
+    padding: 15px 35px 15px 35px;
+}
+
+.sec21{
+    width: 45%;
+    margin: auto;
+    margin-top: 100px;
+}
+
+.sec21 img{
+    width: 90%;
+    margin-top: 20px;
+    margin-bottom: 60px;
+}
+
+/* Section 3*/
+
+.sec3{
+    width: 100%;
+    margin: auto;
+    margin-top: 100px;
+    margin-bottom: 60px;
+}
+
+.s3{
+    font-size: 30px;
+    font-weight: 600;
+    margin: auto;
+    text-align: center;
+}
+
+.s31{
+    font-size: 20px;
+    font-weight: 400;
+    width: 40%;
+    margin: auto;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.sec3 img{
+    width: 90%;
+    margin-left: 70px;
+    margin-bottom: 30px;
+}
+
+.sec3 a{
+    text-decoration: none;
+    font-size: 16px;
+    color: rgb(90, 152, 213);
+    margin-left: 530px;
+}
+
+.sec3 a:hover{
+    color: black;
+}
+
+/* Section 4*/
+.Section4{
+    width: 75%;
+    margin: auto;
+    margin-top: 80px;
+    margin-bottom: 60px;
+}
+
+.sec4{
+    width: 45%;
+    margin-left: 30px;
+    
+}
+
+.s4{
+    font-size: 28px;
+    font-weight: 600
+}
+
+.s41{
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.sec41{
+    width: 49.5%;
+    margin: auto;
+    border: 1px solid rgb(229, 227, 227);
+}
+
+.s42{
+    font-size: 32px;
+    font-weight: 600;
+    text-align: center;
+}
+
+.s43{
+    font-size: 17px;
+    font-weight: 400;
+    text-align: center;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.s44{
+    font-size: 18px;
+    font-weight: 400;
+    text-align: center;
+    margin-bottom: 42px;
+}
+
+.sec4 a{
+    text-decoration: none;
+    font-size: 16px;
+    color: rgb(90, 152, 213);
+
+}
+
+.sec4 a:hover{
+    color: black;
+}
+
+
+/* Section 5*/
+
+.Section5{
+    width: 90%;
+    margin: auto;
+    margin-top: 120px;
+    margin-bottom: 60px;
+}
+
+.sec5{
+    width: 45%;
+    margin-left: 60px;
+    
+}
+
+.s5{
+    font-size: 20px;
+    font-weight: 600;
+    padding-top: 50px;
+}
+
+.sec5 img{
+    width: 70%;
+}
+
+.sec5 a{
+    text-decoration: none;
+    font-size: 16px;
+    color: rgb(90, 152, 213);
+
+}
+
+.sec5 a:hover{
+    color: black;
+}
+
+
+/* Section 6*/
+
+.Section6{
+    width: 40%;
+    margin: auto;
+    margin-top: 120px;
+    margin-bottom: 60px;
+}
+
+.s6{
+    font-size: 30px;
+    font-weight: 600;
+    text-align: center;
+}
+
+.s61{
+    color: rgb(134, 131, 131);
+    text-align: center;
+    padding-bottom: 40px;
+}
+
+.sec6 a{
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+    border: 1px solid black;
+    background-color: rgb(28, 117, 206);
+    padding: 8px 24px;
+    border-radius: 5px;
+    margin-left: 225px;
+    
+}
+
+.sec6 a:hover{
+    background-color: black;
+}
+
+/* Section 7*/
+
+.Section7{
+    width: 100%;
+    margin: auto;
+    margin-top: 120px;
+    
+    background-color: rgb(243, 243, 243);
+}
+
+.sec7{
+    width: 15%;
+    padding-right: 80px;
+    padding-left: 40px;
+}
+
+.sec7 img{
+    width: 70%;
+    padding-top: 32px;
+}
+
+.copy{
+    font-size: 12px;
+    color: rgb(104, 103, 103);
+}
+
+.fab{
+    width: 12%;
+}
+
+.sec7 a{
+    padding-right: 10px;
+    text-decoration: none;
+    color: rgb(94, 90, 90);
+    display: inline;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.sec7 a:hover{
+    color: rgb(87, 143, 200);
+}
+
+.s7{
+    font-size: 18px;
+    padding-top: 13px;
+}
+
+/* Section 8*/
+
+.Section8{
+    width: 100%;
+    margin: auto;
+    background-color: rgb(243, 243, 243);
+}
+
+.sec8{
+    width: 87%;
+    color: rgb(172, 172, 172);
+    font-size: 10px;
+    margin: auto;
+    margin-top: 40px;
+}
+
+.acknow a{
+    text-decoration: none;
+    color: rgb(52, 130, 207);
+}
+
+.acknow a:hover{
+    color: black;
+}
+
+.sec81{
+    margin-left: 140px;
+    margin-top: 15px;
+    margin-bottom: 20px;
+}
+
+.sec81 a{
+    color: rgb(136, 134, 134);
+    text-decoration: none;
+    padding-right: 20px;
+    font-size: 13px;
+}
+.sec81 a:hover{
+    color: rgb(29, 124, 219);
+}
